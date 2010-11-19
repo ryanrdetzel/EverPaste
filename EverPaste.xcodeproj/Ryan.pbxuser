@@ -1,0 +1,219 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1043, 848}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* EverPasteAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1043, 823}}";
+			sepNavSelRange = "{296, 0}";
+			sepNavVisRange = "{0, 702}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* EverPasteAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1125, 1872}}";
+			sepNavSelRange = "{2950, 0}";
+			sepNavVisRange = "{0, 1781}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 94129BD6129576FA00BDBFE1 /* EverPaste */;
+		activeTarget = 8D1107260486CEB800E47090 /* EverPaste */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* EverPaste */,
+		);
+		breakpoints = (
+			946B1C3812958F470062E411 /* EverPasteAppDelegate.m:74 */,
+		);
+		codeSenseManager = 94129BE81295770900BDBFE1 /* Code sense */;
+		executables = (
+			94129BD6129576FA00BDBFE1 /* EverPaste */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					865,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 311791181;
+			PBXWorkspaceStateSaveDate = 311791181;
+		};
+		perUserProjectItems = {
+			94129BF71295836F00BDBFE1 /* PBXTextBookmark */ = 94129BF71295836F00BDBFE1 /* PBXTextBookmark */;
+			946B1DA91295B09B0062E411 /* PBXTextBookmark */ = 946B1DA91295B09B0062E411 /* PBXTextBookmark */;
+			946B1E131295B6440062E411 /* PlistBookmark */ = 946B1E131295B6440062E411 /* PlistBookmark */;
+			946B1E141295B6440062E411 /* PBXBookmark */ = 946B1E141295B6440062E411 /* PBXBookmark */;
+			946B1E601295B90F0062E411 /* PBXTextBookmark */ = 946B1E601295B90F0062E411 /* PBXTextBookmark */;
+			946B1E731295B9FA0062E411 /* PBXTextBookmark */ = 946B1E731295B9FA0062E411 /* PBXTextBookmark */;
+			946B1E8E1296D22F0062E411 /* PBXTextBookmark */ = 946B1E8E1296D22F0062E411 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 94129BE71295770900BDBFE1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* EverPaste */ = {
+		activeExec = 0;
+		executables = (
+			94129BD6129576FA00BDBFE1 /* EverPaste */,
+		);
+	};
+	94129BD6129576FA00BDBFE1 /* EverPaste */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = EverPaste;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	94129BE71295770900BDBFE1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	94129BE81295770900BDBFE1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	94129BF71295836F00BDBFE1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 94129BF81295836F00BDBFE1 /* nsRemotePasteboardServer.h */;
+		name = "nsRemotePasteboardServer.h: 31";
+		rLen = 15;
+		rLoc = 949;
+		rType = 0;
+		vrLen = 1065;
+		vrLoc = 0;
+	};
+	94129BF81295836F00BDBFE1 /* nsRemotePasteboardServer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = nsRemotePasteboardServer.h;
+		path = /Users/Ryan/Cocoa/nsRemotePasteboard/nsRemotePasteboardServer.h;
+		sourceTree = "<absolute>";
+	};
+	946B1C3812958F470062E411 /* EverPasteAppDelegate.m:74 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* EverPasteAppDelegate.m */;
+		functionName = "-checkPasteboardCount:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 74;
+		modificationTime = 311802446.694661;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	946B1DA91295B09B0062E411 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	946B1E131295B6440062E411 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* EverPaste-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSUIElement,
+		);
+		name = "/Users/Ryan/Desktop/EverPaste/EverPaste-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	946B1E141295B6440062E411 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 946B1DA11295B0460062E411 /* icon.png */;
+	};
+	946B1E601295B90F0062E411 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* EverPasteAppDelegate.h */;
+		name = "EverPasteAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 296;
+		rType = 0;
+		vrLen = 702;
+		vrLoc = 0;
+	};
+	946B1E731295B9FA0062E411 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* EverPasteAppDelegate.m */;
+		name = "EverPasteAppDelegate.m: 140";
+		rLen = 0;
+		rLoc = 4249;
+		rType = 0;
+		vrLen = 1968;
+		vrLoc = 2497;
+	};
+	946B1E8E1296D22F0062E411 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* EverPasteAppDelegate.m */;
+		name = "EverPasteAppDelegate.m: 107";
+		rLen = 0;
+		rLoc = 2950;
+		rType = 0;
+		vrLen = 1781;
+		vrLoc = 0;
+	};
+}
