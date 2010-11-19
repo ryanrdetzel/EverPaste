@@ -1,11 +1,12 @@
-Feel free to change it around, some ideas I had were:
+I love the Clipper app for the Mac but I hate that if you restart or if you copy a lot of things you loose older items.  This utility will sit in the background(takes up like 15mb of memory) and sends all of your string copys to a server to store them in a database. Once they're in the database you can do what you want with them.
 
-- Tag pasts based on their content. SQL, PHP, HTML, URLs, etc and have pages that show just those.
-- Show the pasts in the dropdown like so many apps
+Feel free to change it around, some ideas I had were:
+- Tag pastes based on their content. For example SQL, PHP, HTML, URLs would be tagged and have individual pages that show just these items.
+- Show the history in the dropdown like so many apps
 - Delete useless pastes
 
 Requirments:
-- PHP/mySQL
+- PHP/mySQL (or something other language if you want to rewrite the script)
 - XCode
 - A Mac
 
